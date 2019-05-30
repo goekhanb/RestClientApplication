@@ -41,7 +41,7 @@ namespace restClient_0
                 response = (HttpWebResponse)request.GetResponse();
 
 
-                //Proecess the resppnse stream... (could be JSON, XML or HTML etc..._
+                //Process the resppnse stream... (could be JSON, XML or HTML etc..._
 
                 using (Stream responseStream = response.GetResponseStream())
                 {
