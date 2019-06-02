@@ -17,3 +17,13 @@ C:\Users\goekh\Source\Repos\VP-0-REST-Client\restClient_0\obj\Debug\restClient_0
 C:\Users\goekh\Source\Repos\VP-0-REST-Client\restClient_0\obj\Debug\restClient_0.csproj.CoreCompileInputs.cache
 C:\Users\goekh\Source\Repos\VP-0-REST-Client\restClient_0\obj\Debug\restClient_0.exe
 C:\Users\goekh\Source\Repos\VP-0-REST-Client\restClient_0\obj\Debug\restClient_0.pdb
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\bin\Debug\restClient_0.exe.config
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\bin\Debug\restClient_0.exe
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\bin\Debug\restClient_0.pdb
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.csprojAssemblyReference.cache
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.Form1.resources
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.Properties.Resources.resources
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.csproj.GenerateResource.cache
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.csproj.CoreCompileInputs.cache
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.exe
+C:\Users\goekh\source\repos\RestClientApplication\restClient_0\obj\Debug\restClient_0.pdb
